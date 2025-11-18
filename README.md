@@ -5,6 +5,7 @@ A couple of files for the acquisition -  including subset functioning -  of CMS 
 "Copernicus CMS toolbox subsetting functions GITHUB.ipynb" contains functions for accessing CMS catalogue exploration and subset services to download NetCDFs of ocean data. Some exploration on the CMS viewer is encouraged to find your products: https://data.marine.copernicus.eu/viewer
 
 "CMS ARMOR 3D and SSH_SLA animations GITHUB.ipynb" is a notebook with some basic process and plotting of ocean surface and transect data. 
+Example data files (ARMOR-3D, SSH/SLA and GEBCO bathymetry) are included for reproduction in the original markdown. 
 
 Your environment may not be my environment. Please forgive module version compatibility discrepancies and always work in a clean custom environment. 
 
